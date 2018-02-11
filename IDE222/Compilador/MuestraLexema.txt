@@ -1,0 +1,92 @@
+main	Palabra Reservada
+{	Simbolo Especial
+int	Palabra Reservada
+a	Identificador	
+,	Simbolo Especial
+b	Identificador	
+,	Simbolo Especial
+c	Identificador	
+,	Simbolo Especial
+x	Identificador	
+;	Simbolo Especial
+a	Identificador	
+:=	Simbolo Especial
+0	Entero		
+;	Simbolo Especial
+b	Identificador	
+:=	Simbolo Especial
+0	Entero		
+;	Simbolo Especial
+c	Identificador	
+:=	Simbolo Especial
+0	Entero		
+;	Simbolo Especial
+x	Identificador	
+:=	Simbolo Especial
+0	Entero		
+;	Simbolo Especial
+repeat	Palabra Reservada
+{	Simbolo Especial
+cin	Palabra Reservada
+x	Identificador	
+;	Simbolo Especial
+if	Palabra Reservada
+(	Simbolo Especial
+x	Identificador	
+>	Simbolo Especial
+0	Entero		
+)	Simbolo Especial
+then	Palabra Reservada
+{	Simbolo Especial
+if	Palabra Reservada
+(	Simbolo Especial
+x	Identificador	
+<=	Simbolo Especial
+200	Entero		
+)	Simbolo Especial
+then	Palabra Reservada
+{	Simbolo Especial
+a	Identificador	
+++	Simbolo Especial
+;	Simbolo Especial
+}	Simbolo Especial
+else	Palabra Reservada
+{	Simbolo Especial
+if	Palabra Reservada
+(	Simbolo Especial
+x	Identificador	
+<=	Simbolo Especial
+400	Entero		
+)	Simbolo Especial
+then	Palabra Reservada
+{	Simbolo Especial
+b	Identificador	
+++	Simbolo Especial
+;	Simbolo Especial
+}	Simbolo Especial
+else	Palabra Reservada
+{	Simbolo Especial
+c	Identificador	
+++	Simbolo Especial
+;	Simbolo Especial
+}	Simbolo Especial
+}	Simbolo Especial
+}	Simbolo Especial
+}	Simbolo Especial
+until	Palabra Reservada
+(	Simbolo Especial
+x	Identificador	
+!=	Simbolo Especial
+0	Entero		
+)	Simbolo Especial
+;	Simbolo Especial
+cout	Palabra Reservada
+a	Identificador	
+;	Simbolo Especial
+cout	Palabra Reservada
+b	Identificador	
+;	Simbolo Especial
+cout	Palabra Reservada
+c	Identificador	
+;	Simbolo Especial
+}	Simbolo Especial

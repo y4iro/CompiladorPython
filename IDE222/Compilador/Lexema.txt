@@ -1,0 +1,92 @@
+main	Palabra Reservada	1
+{	Simbolo Especial	1
+int	Palabra Reservada	2
+a	Identificador		2
+,	Simbolo Especial	2
+b	Identificador		2
+,	Simbolo Especial	2
+c	Identificador		2
+,	Simbolo Especial	2
+x	Identificador		2
+;	Simbolo Especial	2
+a	Identificador		3
+:=	Simbolo Especial	3
+0	Entero			3
+;	Simbolo Especial	3
+b	Identificador		4
+:=	Simbolo Especial	4
+0	Entero			4
+;	Simbolo Especial	4
+c	Identificador		5
+:=	Simbolo Especial	5
+0	Entero			5
+;	Simbolo Especial	5
+x	Identificador		6
+:=	Simbolo Especial	6
+0	Entero			6
+;	Simbolo Especial	6
+repeat	Palabra Reservada	7
+{	Simbolo Especial	7
+cin	Palabra Reservada	8
+x	Identificador		8
+;	Simbolo Especial	8
+if	Palabra Reservada	9
+(	Simbolo Especial	9
+x	Identificador		9
+>	Simbolo Especial	9
+0	Entero			9
+)	Simbolo Especial	9
+then	Palabra Reservada	9
+{	Simbolo Especial	9
+if	Palabra Reservada	10
+(	Simbolo Especial	10
+x	Identificador		10
+<=	Simbolo Especial	10
+200	Entero			10
+)	Simbolo Especial	10
+then	Palabra Reservada	10
+{	Simbolo Especial	10
+a	Identificador		11
+++	Simbolo Especial	11
+;	Simbolo Especial	11
+}	Simbolo Especial	12
+else	Palabra Reservada	12
+{	Simbolo Especial	12
+if	Palabra Reservada	13
+(	Simbolo Especial	13
+x	Identificador		13
+<=	Simbolo Especial	13
+400	Entero			13
+)	Simbolo Especial	13
+then	Palabra Reservada	13
+{	Simbolo Especial	13
+b	Identificador		14
+++	Simbolo Especial	14
+;	Simbolo Especial	14
+}	Simbolo Especial	15
+else	Palabra Reservada	15
+{	Simbolo Especial	15
+c	Identificador		16
+++	Simbolo Especial	16
+;	Simbolo Especial	16
+}	Simbolo Especial	17
+}	Simbolo Especial	18
+}	Simbolo Especial	19
+}	Simbolo Especial	20
+until	Palabra Reservada	20
+(	Simbolo Especial	20
+x	Identificador		20
+!=	Simbolo Especial	20
+0	Entero			20
+)	Simbolo Especial	20
+;	Simbolo Especial	20
+cout	Palabra Reservada	23
+a	Identificador		23
+;	Simbolo Especial	23
+cout	Palabra Reservada	25
+b	Identificador		25
+;	Simbolo Especial	25
+cout	Palabra Reservada	27
+c	Identificador		27
+;	Simbolo Especial	27
+}	Simbolo Especial	28

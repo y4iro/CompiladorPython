@@ -1,0 +1,9 @@
+
+Symbol table:
+
+          VariableName    Location          Value        Type            LineNumbers
+          ------------    --------     -------    ------        -----------------------------------------------------
+	a	   1	1	int	2 3 11 11 23
+	b	   2	1	int	2 4 14 14 25
+	c	   3	1	int	2 5 16 16 27
+	x	   4	0	int	2 6 8 9 10 13 20
